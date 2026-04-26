@@ -20,6 +20,6 @@
     "tailwindcss": "^4.2.4"
   },
   "devDependencies": {
-    "vite": "^8.0.10"
+    "vite": "^7.0.0"
   }
 }
